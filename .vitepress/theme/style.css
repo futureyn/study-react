@@ -1,0 +1,6 @@
+/* 自定义Logo样式 */
+.VPImage.image-src {
+  width: 340px; 
+  height: 340px;
+  /* transform: scale(1.2); */
+}
