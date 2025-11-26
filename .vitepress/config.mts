@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "study-react",
   description: "一个专注于学习React的站点",
+  base: '/study-react/', // GitHub Pages 部署路径
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
