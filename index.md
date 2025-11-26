@@ -6,7 +6,7 @@ hero:
   name: "study-react"
   text: ""
   image:
-    src:  ./src/public/logo.png
+    src: /logo.png
     alt: "study-react"
   tagline: 一个专注学习React的站点
   actions:
